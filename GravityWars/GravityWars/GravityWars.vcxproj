@@ -142,9 +142,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="Hubert.h" />
     <ClInclude Include="Main.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Hubert.cpp" />
     <ClCompile Include="Main.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
